@@ -15,9 +15,9 @@ Try running the following commands:
 - Find [dbt events](https://events.getdbt.com) near you
 - Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
 =======
-Projeto de Integração do Redshift com Modelagem no dbt (Em Desenvolvimento)
+Projeto de Integração do Redshift com Modelagem no dbt.
 
-Este é um projeto (teste), em desenvolvimento de integração do Amazon Redshift com a modelagem de dados utilizando dbt (data build tool).
+Este é um projeto (teste), de integração do Amazon Redshift com a modelagem de dados utilizando dbt (data build tool).
 
 Objetivo:
 
